@@ -42,6 +42,7 @@
 			<div class="content">
 				<div class="title">PayrollPro.PH</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
+				<h1><a href="{{url('/auth/login')}}">Login</a></h1>
 			</div>
 		</div>
 	</body>
